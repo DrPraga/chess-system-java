@@ -12,7 +12,7 @@ public class ChessPiece extends Piece {
 		this.colo = colo;
 	}
 
-	public Color getColo() {
+	public Color getColor() {
 		return colo;
 	}
 
